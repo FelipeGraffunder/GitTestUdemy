@@ -1,2 +1,4 @@
 Esse é o arquivo da main
 A branch1 foi Mergeada
+A branch2 foi Mergeada
+Commit Final
