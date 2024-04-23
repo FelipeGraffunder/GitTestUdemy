@@ -63,4 +63,8 @@ _Texto em Italico_
 | B | 24/04 |
 | C | 25/04 |
 
+---
 
+## Imagem:
+
+![Imagem git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
